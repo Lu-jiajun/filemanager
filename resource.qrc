@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/IMG_20221003_153501.png</file>
+        <file>resource/copyPath.png</file>
+        <file>resource/rename.png</file>
+        <file>resource/delete.png</file>
+        <file>resource/openFile.png</file>
+        <file>resource/exit.png</file>
+        <file>resource/about.png</file>
+        <file>resource/movetopath.png</file>
+        <file>resource/copytopath.png</file>
+        <file>resource/openinDIr.jpg</file>
+        <file>resource/copy.png</file>
+        <file>resource/copyTo.png</file>
+        <file>resource/cut.png</file>
+        <file>resource/newFolder.png</file>
+        <file>resource/copyToClipboard.png</file>
+        <file>resource/backChild.png</file>
+        <file>resource/cdParent.png</file>
+        <file>resource/openContainingFolder.png</file>
+    </qresource>
+</RCC>
