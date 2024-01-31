@@ -6,4 +6,4 @@ qt 5.15，window 10
 ### 复制，删除
 ### 重命名
 ## 演示图片
-[1](http://s79fwm27x.hb-bkt.clouddn.com/filemanager/1.png)
+![1](http://s79fwm27x.hb-bkt.clouddn.com/filemanager/1.png)
