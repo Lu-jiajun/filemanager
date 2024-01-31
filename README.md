@@ -3,7 +3,7 @@
 qt 5.15，window 10
 ## 功能
 ### 文件查找，模糊查找
-### 复制，删除
-### 重命名
+### 复制，删除, 重命名
+![2](http://s79fwm27x.hb-bkt.clouddn.com/filemanager/2.png)
 ## 演示图片
 ![1](http://s79fwm27x.hb-bkt.clouddn.com/filemanager/1.png)
